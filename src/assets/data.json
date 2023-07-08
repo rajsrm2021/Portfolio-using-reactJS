@@ -1,0 +1,42 @@
+{
+  "projects": [
+    {
+      "date": "15/04/2023",
+      "title": "Sorting Visualizer using Reacr JS",
+      "description": "This is a web app built using React.js to visualize sorting algorithms such as bubble, insertion, selection, merge, quick, heap sort.",
+      "url": "https://rajsrm2021.github.io/project-sorting-visualizer/ ",
+      "imgSrc": "https://tirthpatel.net/images/portfolio/SortingVisualizer.png"
+    },
+    {
+      "date": "17/06/2023",
+      "title": "Netflix Clone with API Integration",
+      "description": "Netflix Cone: A streaming project integrating APIs for personalized recommendations, seamless user profiles, and real-time content updates. ",
+      "url": "https://netflix-rajjaiswal.vercel.app",
+      "imgSrc": "https://images.unsplash.com/photo-1574375927938-d5a98e8ffe85?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NXx8bmV0ZmxpeHxlbnwwfHwwfHx8MA%3D%3D&w=1000&q=80"
+    },
+
+    {
+      "date": "10/04/2023",
+      "title": "SkyCast:Weather App",
+      "description": "WeatherWatch: A dynamic weather webpage with API integration, providing real-time forecasts, accurate data, and personalized weather updates.",
+      "url": "https://rajsrm2021.github.io/Weather-API-fetch-JS_Project/",
+      "imgSrc": "https://www.sketchappsources.com/resources/source-image/weather-app-icons.jpg"
+    },
+    {
+      "date": "24/06/2023",
+      "title": "PORTFOLIO",
+      "description": "Cutting-edge personal portfolio project featuring innovative designs and seamless user experience for showcasing my talents and accomplishments.",
+      "url": "/",
+      "imgSrc": "https://cdn.pixabay.com/photo/2020/03/19/21/25/cactus-4948833_960_720.jpg"
+    },
+    {
+      "date": "17/05/2022",
+      "title": "Chat APP With Google Aunthetication",
+      "description":
+      "Connect, chat, and share in real-time with friends and loved ones on our intuitive and feature-packed chat app.",
+      "url": "https://648ec72b2348aa1320ce5f6a--glittery-rugelach-4860ca.netlify.app/",
+      "imgSrc": "https://res.cloudinary.com/practicaldev/image/fetch/s--s58c_odW--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/uploads/articles/8ylxpg8dsaos9a1flawq.png"
+    }
+
+  ]
+}

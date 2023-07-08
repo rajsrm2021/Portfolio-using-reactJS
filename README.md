@@ -1,70 +1,39 @@
-# Getting Started with Create React App
+# Portfolio Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This is a personal portfolio project built using React, SCSS for styling, and various animation libraries like Typewriter and Framer Motion. The portfolio is fully responsive and includes animations to enhance user experience. Additionally, a contact form is implemented, and Firebase is utilized to store the form data.
 
-## Available Scripts
+# Features
 
-In the project directory, you can run:
+1.React: The portfolio project is developed using the React library, providing a modular and efficient structure for the application.
 
-### `npm start`
+2.SCSS Styling: SCSS (Sass) is used for styling the portfolio, allowing for more organized and maintainable CSS code.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+3.Animations:
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+   i.Typewriter: The Typewriter library is used to create typewriter-like effects for text elements, adding a dynamic 
+     and engaging touch to the portfolio.
 
-### `npm test`
+    ii.Framer Motion: Framer Motion is employed to create smooth and visually appealing animations throughout      
+    the portfolio, enhancing the overall user experience.
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+4.Responsive Design: The portfolio is designed to be fully responsive, ensuring optimal viewing and interaction 
+    across various devices and screen sizes.
 
-### `npm run build`
+5.Contact Form: A working contact form is implemented, enabling visitors to get in touch with the portfolio owner. The form data is stored using Firebase, ensuring secure and reliable data storage.
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+# Acknowledgements
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+The portfolio project makes use of several open-source libraries and resources, including:
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+ 1.React
+ 2.SCSS
+ 3.Typewriter
+ 4.Framer Motion
+ 5.Firebase
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+# Contact
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+If you have any questions or would like to connect, feel free to reach out to me. You can find my contact information on my portfolio or reach me via email at [rajjaiswal2060@gmail.com].
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Thank you for checking out my portfolio project!
