@@ -13,7 +13,7 @@ This is a personal portfolio project built using React, SCSS for styling, and va
    i.Typewriter: The Typewriter library is used to create typewriter-like effects for text elements, adding a dynamic 
      and engaging touch to the portfolio.
 
-    ii.Framer Motion: Framer Motion is employed to create smooth and visually appealing animations throughout      
+   ii.Framer Motion: Framer Motion is employed to create smooth and visually appealing animations throughout      
     the portfolio, enhancing the overall user experience.
 
 4.Responsive Design: The portfolio is designed to be fully responsive, ensuring optimal viewing and interaction 
