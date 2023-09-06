@@ -2,7 +2,7 @@ import { Toaster } from "react-hot-toast";
 import Header,{HeaderPhone} from "./components/Header";
 import Home from "./components/Home";
 import Services from "./components/Services";
-import Testimonial from "./components/Testimonial";
+// import Testimonial from "./components/Testimonial";
 import Timeline from "./components/Timeline";
 import Work from "./components/Work";
 import Footer from "./components/Footer";
@@ -22,7 +22,7 @@ function App() {
       <Work />
       <Timeline />
       <Services />
-      <Testimonial />
+      {/* <Testimonial /> */}
       <Contact />
       <Toaster />
       <Footer />

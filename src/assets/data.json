@@ -1,11 +1,11 @@
 {
   "projects": [
     {
-      "date": "15/04/2023",
-      "title": "Sorting Visualizer using Reacr JS",
-      "description": "This is a web app built using React.js to visualize sorting algorithms such as bubble, insertion, selection, merge, quick, heap sort.",
-      "url": "https://rajsrm2021.github.io/project-sorting-visualizer/ ",
-      "imgSrc": "https://tirthpatel.net/images/portfolio/SortingVisualizer.png"
+      "date": "15/09/2023",
+      "title": "E-Learning Web-Application",
+      "description": "It is a MERN stack project which is based on subscription-based model, allowing only subscribed users to access the content. Razor Pay is used for the secure payment. ",
+      "url": "https://e-learning-frontend-virid.vercel.app/",
+      "imgSrc": "https://res.cloudinary.com/demo/image/upload/v1694022917/docs_uploading_example/Screenshot_2023-09-06_232503_bgds0n.png"
     },
     {
       "date": "17/06/2023",

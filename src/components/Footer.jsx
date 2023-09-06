@@ -16,7 +16,7 @@ const Footer = () => {
           <img src={me} alt="founder" />
 
           <h2>Raj Kumar Jaiswal</h2>
-          <p>Coding Karo jake DSA pe dhyan do.</p>
+          <p>Hi, I am a full-stack developer and a 3rd year student at srm university.</p>
         </div>
         <aside>
           <h2>socoal media</h2>

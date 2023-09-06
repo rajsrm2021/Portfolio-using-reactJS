@@ -2,7 +2,7 @@ import React, { useRef } from "react";
 import { BsArrowUpRight, BsChevronDown } from "react-icons/bs";
 import { animate, motion } from "framer-motion";
 import Typewriter from "typewriter-effect";
-import me from "../assets/bg1.png";
+import me from "../assets/bg6.png";
 
 const Home = () => {
   const clientCount = useRef(null);
@@ -15,7 +15,7 @@ const Home = () => {
     });
   };
   const animationProjectsCount = () => {
-    animate(0, 50, {
+    animate(0, 20, {
       duration: 3,
       onUpdate: (v) => (projectCount.current.textContent = v.toFixed()),
     });
@@ -32,7 +32,7 @@ const Home = () => {
         opacity: 1,
       },
       transition: {
-        delay: 0.2,
+        delay: 0.3,
       },
     },
   };
@@ -55,9 +55,9 @@ const Home = () => {
           />
 
           <div>
-            <a href="mailto:rajjaiswal2060@gmail.com">Hire Me</a>
-            <a href="#work">
-              Projects <BsArrowUpRight />
+            <a href="mailto:rajjaiswal2060@gmail.com">Contact Me</a>
+            <a href="https://drive.google.com/file/d/1YRrcoHqnrkRWz2HHS2gS0sFMAThchnMI/view?usp=sharing" target="_blank">
+              Resume <BsArrowUpRight />
             </a>
           </div>
 

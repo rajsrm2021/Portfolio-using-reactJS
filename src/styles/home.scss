@@ -99,10 +99,11 @@
       }
 
       > img {
-        width: 40vmax;
-        height: 45vmax;
+        width: 60vmax;
+        height: 44vmax;
         object-fit: contain;
-        border-bottom: 28px solid $color3;
+        border-bottom: 25px solid $color3;
+        margin-left: -0.5rem;
       }
     }
   }
