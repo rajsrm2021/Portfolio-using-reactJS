@@ -56,7 +56,7 @@ const Home = () => {
 
           <div>
             <a href="mailto:rajjaiswal2060@gmail.com">Contact Me</a>
-            <a href="https://drive.google.com/file/d/1YRrcoHqnrkRWz2HHS2gS0sFMAThchnMI/view?usp=sharing" target="_blank">
+            <a href="https://drive.google.com/file/d/1YRrcoHqnrkRWz2HHS2gS0sFMAThchnMI/view?usp=sharing" target="blank">
               Resume <BsArrowUpRight />
             </a>
           </div>
