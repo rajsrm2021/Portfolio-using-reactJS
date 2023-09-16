@@ -8,6 +8,7 @@ import Work from "./components/Work";
 import Footer from "./components/Footer";
 import { Contact } from "./components/Contact";
 import { useState } from "react";
+import Certificates from "./components/Certificates";
 
 
 
@@ -19,6 +20,7 @@ function App() {
     <HeaderPhone menuOpen={menuOpen} setMenuOpen={setMenuOpen}/>
       <Header menuOpen={menuOpen} setMenuOpen={setMenuOpen} />
       <Home />
+      <Certificates />
       <Work />
       <Timeline />
       <Services />
