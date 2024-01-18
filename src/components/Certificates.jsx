@@ -25,7 +25,8 @@ const Certificates = () => {
                 <aside>
                   <h3>{i.title}</h3>
                   <p>{i.description}</p>
-                  <a target={"blank"} href={i.url}>
+                  {/* <a target={"blank"} href={i.url}> */}
+                  <a target={"blank"} >
                     {" "}
                     View Certificate
                   </a>

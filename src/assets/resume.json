@@ -1,47 +1,33 @@
 {
     "certificate": [
       {
-        "date": "Feb 25, 2023",
-        "title": "Introduction to Front-End Development",
-        "description": "an online non-credit course authorized by Meta and offered through Coursera ",
+        "date": "JUL-OCT, 2023",
+        "title": "Programming in JAVA - NPTEL",
+        "description": "Achieved elite rank in Java certification through NPTEL, showcasing advanced proficiency in Java programming and comprehensive understanding of key concepts.",
         "url": "https://coursera.org/verify/NCAJRJYYLNR5",
-        "imgSrc": "https://res.cloudinary.com/demo/image/upload/v1694856474/docs_uploading_example/WhatsApp_Image_2023-09-16_at_14.57.24_jatxac.jpg"
+        "imgSrc": "https://drive.google.com/file/d/1pwcaHKLyUoVAWohym2Xpn3FwTI6iC7Un/view?usp=sharing"
       },
       {
         "date": "April 7, 2023",
-        "title": "Programming with JavaScript",
-        "description": "an online non-credit course authorized by Meta and offered through Coursera.",
+        "title": "Programming in JavaScript",
+        "description": "Successfully completed JavaScript certification on Coursera, emphasizing practical proficiency and solid understanding of key concepts.",
         "url": "https://coursera.org/verify/765M54ZXRGYU",
         "imgSrc": "https://res.cloudinary.com/demo/image/upload/v1694856678/docs_uploading_example/WhatsApp_Image_2023-09-16_at_15.00.52_rj3llg.jpg"
       },
   
       {
-        "date": "10/04/2023",
-        "title": "Basic of Python Programming by IIT Kharagpur",
-        "description": "Certificate of Completion python programming conducted by Faculty of IIT Kharagpur",
+        "date": "10/11/2021",
+        "title": "Python Programming - IIT Kharagpur",
+        "description": "Completed Python certification from IIT Kharagpur through NPTEL, demonstrating expertise in Python programming",
         "url": "https://drive.google.com/file/d/1_n7Qwjzdu0CYGfeqJDwKAJR53g3Q2Tzb/view?usp=sharing",
         "imgSrc": "https://res.cloudinary.com/demo/image/upload/v1694856733/docs_uploading_example/WhatsApp_Image_2023-09-16_at_15.00.52_cx1ibz.jpg"
       },
       {
         "date": "17 jan 2023",
-        "title": "Problem Solving Basis",
-        "description": "An online Assessment exam authorized by HackerRank to check the Problem Solving skills.",
+        "title": "Networking Essentials - Cisco",
+        "description": "Secured Cisco Networking Essentials certification, validating proficiency in networking fundamentals and practical skills, showcasing expertise in Cisco's networking technologies.",
         "url": "https://www.hackerrank.com/certificates/24e2184bb210",
         "imgSrc": "https://res.cloudinary.com/demo/image/upload/v1694856817/docs_uploading_example/WhatsApp_Image_2023-09-16_at_15.00.52_eiuedt.jpg"
-      },
-      {
-        "date": "17 April 2023",
-        "title": "Networking Essentials Course.",
-        "description": "An online Assessment exam authorized by Cisco to check the Networking Skills.",
-        "url": "https://res.cloudinary.com/demo/image/upload/v1694856862/docs_uploading_example/WhatsApp_Image_2023-09-16_at_15.00.53_xqjlgo.jpg",
-        "imgSrc": "https://res.cloudinary.com/demo/image/upload/v1694856862/docs_uploading_example/WhatsApp_Image_2023-09-16_at_15.00.53_xqjlgo.jpg"
-      },
-      {
-        "date": "03/30/2023",
-        "title": "AWS Academy Graduate - AWS Academy Machine Learning Foundations.",
-        "description": "An online Assessment exam authorized by Cisco to check the Networking Skills.",
-        "url": "https://res.cloudinary.com/demo/image/upload/v1694856920/docs_uploading_example/WhatsApp_Image_2023-09-16_at_15.00.53_de4io0.jpg",
-        "imgSrc": "https://res.cloudinary.com/demo/image/upload/v1694856920/docs_uploading_example/WhatsApp_Image_2023-09-16_at_15.00.53_de4io0.jpg"
       }
     ]
   }
